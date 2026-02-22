@@ -1,3 +1,125 @@
 <resources>
-    <string name="app_name">ml3</string>
+    <string name="app_name">30 Days of Recipes</string>
+    <string name="day_prefix">Day</string>
+    <string name="ingredients_label">Ingredients and Cooking:</string>
+
+    <string name="title_1">Classic Borsch</string>
+    <string name="short_1">Traditional hearty soup with beets and beef.</string>
+    <string name="long_1">Ingredients: Beef, beets, cabbage, potatoes, carrots, onions, tomato paste.\n\n1. Boil the meat broth.\n2. Sauté onions, carrots, and beets with tomato paste.\n3. Add potatoes and cabbage to the broth.\n4. Combine the sautéed mix with the broth and simmer for 15 minutes.</string>
+
+    <string name="title_2">Milk Pancakes</string>
+    <string name="short_2">Thin, lacy homemade pancakes for the whole family.</string>
+    <string name="long_2">Ingredients: Milk 500ml, 3 eggs, flour 200g, sugar, salt, oil.\n\n1. Whisk eggs with sugar and salt.\n2. Gradually add milk and flour, whisking out lumps.\n3. Add a spoon of oil to the batter.\n4. Fry on a hot pan until golden brown.</string>
+
+    <string name="title_3">Potato Pancakes (Draniki)</string>
+    <string name="short_3">Crispy grated potato pancakes served with sour cream.</string>
+    <string name="long_3">Ingredients: 5 potatoes, 1 egg, 2 tbsp flour, garlic, salt.\n\n1. Grate potatoes finely and squeeze out excess juice.\n2. Add egg, flour, and minced garlic.\n3. Fry in oil until a golden crust forms.</string>
+
+    <string name="title_4">Chicken Plov</string>
+    <string name="short_4">Fragrant rice with juicy chicken and spices.</string>
+    <string name="long_4">Ingredients: Rice 400g, chicken fillet 500g, carrots, onions, cumin, barberry.\n\n1. Fry meat with onions and carrots in a pot.\n2. Add washed rice and water (2cm above rice level).\n3. Add spices and simmer on low heat until rice is cooked.</string>
+
+    <string name="title_5">Cottage Cheese Pancakes (Syrniki)</string>
+    <string name="short_5">Soft breakfast made of cottage cheese with vanilla aroma.</string>
+    <string name="long_5">Ingredients: Cottage cheese 400g, 1 egg, 3 tbsp flour, sugar.\n\n1. Mix cottage cheese with egg and sugar.\n2. Form small patties and coat in flour.\n3. Fry on both sides on low heat under a lid.</string>
+
+    <string name="title_6">Herring under a Fur Coat</string>
+    <string name="short_6">Layered festive salad with salted fish and vegetables.</string>
+    <string name="long_6">Ingredients: Herring, potatoes, carrots, beets, eggs, onions, mayo.\n\n1. Boil vegetables and eggs.\n2. Dice herring, grate veggies.\n3. Layer: herring, onion, potatoes, carrots, eggs, beets. Spread mayo between layers.</string>
+
+    <string name="title_7">Mushroom Cream Soup</string>
+    <string name="short_7">Creamy soup made of champignons and heavy cream.</string>
+    <string name="long_7">Ingredients: Champignons 500g, cream 200ml, 2 potatoes, onion.\n\n1. Sauté mushrooms with onions.\n2. Boil potatoes, add mushrooms, and blend.\n3. Pour in cream, salt, and heat for a few more minutes.</string>
+
+    <string name="title_8">Navy-Style Pasta</string>
+    <string name="short_8">Simple and filling pasta with sautéed minced meat.</string>
+    <string name="long_8">Ingredients: Pasta 300g, minced meat 400g, onion, salt, pepper.\n\n1. Boil the pasta.\n2. Fry onions with minced meat until cooked.\n3. Mix pasta with meat and heat together for 5 minutes.</string>
+
+    <string name="title_9">Homemade Dumplings (Pelmeni)</string>
+    <string name="short_9">Traditional dough dish with juicy meat filling.</string>
+    <string name="long_9">Ingredients: Flour, water, egg, minced meat, onion.\n\n1. Knead firm dough.\n2. Mix meat with finely chopped onion.\n3. Roll out dough, cut circles, and fold dumplings.\n4. Boil for 5-7 minutes after they float.</string>
+
+    <string name="title_10">Okroshka on Kvass</string>
+    <string name="short_10">Refreshing summer cold soup.</string>
+    <string name="long_10">Ingredients: Sausage, cucumber, radish, potatoes, eggs, herbs, kvass.\n\n1. Dice all ingredients into small cubes.\n2. Mix in a pot with plenty of herbs.\n3. Pour cold kvass before serving.</string>
+
+    <string name="title_11">Cabbage Rolls (Golubtsi)</string>
+    <string name="short_11">Minced meat and rice wrapped in tender cabbage leaves.</string>
+    <string name="long_11">Ingredients: Cabbage, meat, rice, onion, tomato paste.\n\n1. Blanch cabbage leaves.\n2. Mix meat with parboiled rice.\n3. Wrap the filling in leaves.\n4. Simmer in tomato-sour cream sauce for 40 minutes.</string>
+
+    <string name="title_12">Olivier Salad</string>
+    <string name="short_12">Main festive salad with potatoes and peas.</string>
+    <string name="long_12">Ingredients: Potatoes, carrots, sausage, eggs, pickles, peas, mayo.\n\n1. Boil veggies and eggs. 2. Dice everything into small cubes. 3. Mix with peas and dress with mayo.</string>
+
+    <string name="title_13">Vegetable Stew</string>
+    <string name="short_13">Light dietary dish made of seasonal vegetables.</string>
+    <string name="long_13">Ingredients: Zucchini, eggplant, bell pepper, tomato, onion.\n\nChop everything coarsely and simmer in a pan with oil until soft, adding garlic and herbs.</string>
+
+    <string name="title_14">Baked Fish</string>
+    <string name="short_14">Fish fillet with lemon and rosemary in foil.</string>
+    <string name="long_14">Take a fillet of white fish or salmon. Salt, drizzle with lemon juice, add a sprig of rosemary. Wrap in foil and bake for 20 minutes at 180C.</string>
+
+    <string name="title_15">Apple Sharlotka</string>
+    <string name="short_15">Simple and quick apple sponge cake.</string>
+    <string name="long_15">Ingredients: 3 eggs, 1 cup sugar, 1 cup flour, 3 apples.\n\n1. Whisk eggs with sugar. 2. Gently fold in flour. 3. Slice apples, pour batter over them, and bake for 40 minutes.</string>
+
+    <string name="title_16">Pork Goulash</string>
+    <string name="short_16">Meat chunks in thick gravy with paprika.</string>
+    <string name="long_16">Fry meat with onions, add plenty of paprika, flour for thickness, and water. Simmer under a lid for 1 hour until tender.</string>
+
+    <string name="title_17">Cottage Cheese Casserole</string>
+    <string name="short_17">Tastes like childhood: soft cheese and raisins.</string>
+    <string name="long_17">Mix cottage cheese, semolina, egg, and raisins. Let sit for 20 mins for semolina to swell. Bake until a golden crust forms.</string>
+
+    <string name="title_18">Ukha Fish Soup</string>
+    <string name="short_18">Classic fish soup with clear broth.</string>
+    <string name="long_18">Ingredients: Fish (pike or salmon), potatoes, onion, carrot, parsley root.\n\n1. Boil fish, remove it, and strain broth. 2. Add veggies. 3. Return fish to pot, add herbs, and let rest.</string>
+
+    <string name="title_19">Shchi Soup</string>
+    <string name="short_19">Traditional Russian soup with fresh cabbage.</string>
+    <string name="long_19">Ingredients: Beef, cabbage, potatoes, tomatoes, onion, carrot.\n\n1. Boil beef broth. 2. Add fresh cabbage and potatoes. 3. Add sautéed veggies. 4. Simmer for 30-40 minutes.</string>
+
+    <string name="title_20">Chicken Kiev</string>
+    <string name="short_20">Chicken fillet with a piece of cold butter inside.</string>
+    <string name="long_20">Flatten chicken breast, wrap cold herb butter inside. Double bread the roll and deep fry until crispy.</string>
+
+    <string name="title_21">Vinaigrette Salad</string>
+    <string name="short_21">Traditional salad with pickles and beets.</string>
+    <string name="long_21">Boiled beets, carrots, potatoes, peas, and pickles. Dress with fragrant sunflower oil.</string>
+
+    <string name="title_22">French Style Meat</string>
+    <string name="short_22">Baked layers of meat, potatoes, and cheese.</string>
+    <string name="long_22">Ingredients: Pork, potatoes, onion, cheese, mayo.\n\n1. Slice and tenderize meat. 2. Layer: meat, onion rings, potatoes. 3. Spread mayo and top with cheese. 4. Bake for 45 minutes.</string>
+
+    <string name="title_23">Pumpkin Cream Soup</string>
+    <string name="short_23">Bright and warming soup with seeds.</string>
+    <string name="long_23">Roast pumpkin, blend with cream and ginger. Serve with roasted pumpkin seeds.</string>
+
+    <string name="title_24">Beef Stroganoff</string>
+    <string name="short_24">Thin strips of beef in a sour cream sauce.</string>
+    <string name="long_24">Flash-fry beef, add onions and plenty of sour cream. Simmer briefly so the meat stays tender.</string>
+
+    <string name="title_25">Cottage Cheese Pierogi</string>
+    <string name="short_25">Soft dough with sweet cottage cheese filling.</string>
+    <string name="long_25">Ingredients: Flour, water, cottage cheese, sugar, egg yolk.\n\n1. Knead elastic dough. 2. Mix cheese with sugar and yolk. 3. Form pierogi and boil for 4-5 mins.</string>
+
+    <string name="title_26">Mimosa Salad</string>
+    <string name="short_26">Layered salad with canned fish and grated eggs.</string>
+    <string name="long_26">Ingredients: Canned fish, boiled eggs, cheese, butter, onion.\n\nLayers: egg whites, cheese, fish, mayo, onions, egg yolks. Top with frozen butter shavings.</string>
+
+    <string name="title_27">Guryev Porridge</string>
+    <string name="short_27">Traditional Russian dessert: semolina with milk skins and nuts.</string>
+    <string name="long_27">Ingredients: Semolina, milk, honey, nuts, dried fruits.\n\n1. Cook thick semolina. 2. Bake milk for skins. 3. Layer porridge and skins with nuts. 4. Bake in the oven.</string>
+
+    <string name="title_28">Potato Casserole</string>
+    <string name="short_28">Hearty homemade dish with potatoes and minced meat.</string>
+    <string name="long_28">Ingredients: Mashed potatoes, minced meat, onion, cheese.\n\n1. Layer half the mash in a dish. 2. Add fried meat with onions. 3. Cover with rest of mash, top with cheese and bake.</string>
+
+    <string name="title_29">Homemade Lemonade</string>
+    <string name="short_29">Refreshing drink made of lemons and mint.</string>
+    <string name="long_29">Squeeze 3 lemons, mix with water, sugar, and mint. Add ice and lemon slices.</string>
+
+    <string name="title_30">Sour Cream Cake (Smetannik)</string>
+    <string name="short_30">Classic tender cake based on sour cream.</string>
+    <string name="long_30">Ingredients: Sour cream, sugar, flour, eggs.\n\n1. Make dough with sour cream, flour, and eggs. Bake crusts. 2. For cream, whisk sour cream with sugar. 3. Assemble and let soak.</string>
 </resources>
